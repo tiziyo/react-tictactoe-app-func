@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-tictactoe-app-func/static/css/main.68aa3360.css",
-    "main.js": "/react-tictactoe-app-func/static/js/main.d226600b.js",
-    "static/js/787.7b6dea5d.chunk.js": "/react-tictactoe-app-func/static/js/787.7b6dea5d.chunk.js",
-    "index.html": "/react-tictactoe-app-func/index.html",
-    "main.68aa3360.css.map": "/react-tictactoe-app-func/static/css/main.68aa3360.css.map",
-    "main.d226600b.js.map": "/react-tictactoe-app-func/static/js/main.d226600b.js.map",
-    "787.7b6dea5d.chunk.js.map": "/react-tictactoe-app-func/static/js/787.7b6dea5d.chunk.js.map"
+    "main.css": "/static/css/main.68aa3360.css",
+    "main.js": "/static/js/main.e20f8f72.js",
+    "static/js/787.7b6dea5d.chunk.js": "/static/js/787.7b6dea5d.chunk.js",
+    "index.html": "/index.html",
+    "main.68aa3360.css.map": "/static/css/main.68aa3360.css.map",
+    "main.e20f8f72.js.map": "/static/js/main.e20f8f72.js.map",
+    "787.7b6dea5d.chunk.js.map": "/static/js/787.7b6dea5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68aa3360.css",
-    "static/js/main.d226600b.js"
+    "static/js/main.e20f8f72.js"
   ]
 }
